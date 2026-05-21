@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects"
+  },
+  "hero": {
+    "status": "— AVAILABLE FOR NEW PROJECTS",
+    "heading": "Andrii Kuznichenko",
+    "subheading": "I write code. That's it.",
+    "body": "Fullstack web developer & 2D animator. Next.js, React, TypeScript — and a bit of animation.",
+    "viewProjects": "View projects",
+    "getInTouch": "Get in touch",
+    "tags": {
+      "masters": "Master's CS",
+      "english": "English C1",
+      "ukrainian": "Ukrainian",
+      "russian":"Russian",
+      "german": "German B1",
+      "location_first": "Berlin",
+      "location_second": "Greifswald",
+      "location_third": "Odesa"
+    },
+    "photoCard": {
+      "label": "recommended",
+      "placeholder": "Photo coming soon"
+    }
+  },
+  "about": {
+    "label": "ABOUT",
+    "text": "CS grad, Odesa → Berlin. Full-stack dev with a thing for animation — React, Next.js, and too many browser tabs open. Looking for a team.",
+    "tags": {
+      "cleanCode": "React / Next.js",
+      "motionDesign": "Node.js & NestJS",
+      "uiux": "Motion & animation",
+      "fastShipping": "Full-stack"
+    }
+  },
+  "experience": {
+    "label": "EXPERIENCE",
+    "university": {
+      "title": "Technical Staff and Web Developer",
+      "company": "Universität Greifswald",
+      "period": "2025 — present",
+      "description": "Tech companion for a team of geographers and remote sensing researchers. Building full-stack web apps for Terris Gryphi — a cultural-historical project bringing Pomerania's history to the web. "
+    },
+    "fullstack": {
+      "title": "Fullstack Web Developer",
+      "company": "GSWE Greifswald",
+      "period": "2025",
+      "description": "Full-stack dev on a medical & pharmacy startup. Built core features across the stack."
+    },
+    "frontend": {
+      "title": "Frontend NextJs Developer",
+      "company": "K&CO. Limited",
+      "period": "2024 — 2025",
+      "description": "Frontend dev in fintech. Built UI components and design systems in Next.js."
+    },
+    "animator": {
+      "title": "2D Animator",
+      "company": "Voki Games Ukraine",
+      "period": "2020 — 2022",
+      "description": "2D animator for mobile games with millions of downloads."
+    }
+  },
+  "education": {
+    "label": "EDUCATION",
+    "masters": {
+      "title": "Master's in Computer Science",
+      "institution": "Odesa State Enviromental University",
+      "period": "2021 — 2022"
+    },
+    "bachelor": {
+      "title": "Bachelor in Computer Science",
+      "institution": "Odesa National Polytechnic University",
+      "period": "2017 — 2021"
+    },
+    "bootcamp": {
+      "title": "Web Developer Bootcamp",
+      "institution": "WBS Coding School Berlin",
+      "period": "2023 — 2024"
+    }
+  },
+  "stack": {
+    "label": "STACK"
+  },
+  "projectsPreview": {
+    "label": "PROJECTS",
+    "viewAll": "View all projects →"
+  },
+  "footer": {
+    "heading": "Let's build something.",
+    "subtitle": "Junior/mid roles in Berlin — open to remote",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "projects": {
+    "labels": {
+      "liveDemo": "Live demo →",
+      "visitSite": "Visit site →",
+      "github": "GitHub",
+      "done": "DONE",
+      "nextUp": "NEXT UP",
+      "status": {
+        "live": "Live",
+        "wip": "In progress",
+        "planned": "Planned"
+      }
+    },
+    "marketplace": {
+      "title": "Marketplace App",
+      "subtitle": "Full-stack buy & sell platform",
+      "description": "A full-stack marketplace with user listings, JWT authentication, image uploads, and a clean responsive UI. Built to production-grade standards and deployed on Vercel."
+    },
+    "jim-stanes": {
+      "title": "Jim Stanes",
+      "subtitle": "Artist portfolio",
+      "description": "A minimal portfolio site for a visual artist. Features smooth page transitions, a curated artwork grid, and strong SEO. Shipped to a custom domain."
+    },
+    "restaurant-saas": {
+      "title": "Restaurant SaaS",
+      "subtitle": "Multi-tenant restaurant management",
+      "description": "A SaaS platform for restaurant operators. Currently being refactored from Pages Router to App Router. Includes table management UI and a drag-and-drop menu builder."
+    },
+    "animation2d": {
+      "title": "2D Animation Showcase",
+      "subtitle": "Motion experiments",
+      "description": "A planned showcase for 2D animations built with Framer Motion, GSAP, Lottie, and HTML Canvas. Exploring the intersection of code and art."
+    }
+  },
+  "projectsPage": {
+    "heading": "Things I've built & broken.",
+    "filter": {
+      "all": "All",
+      "live": "Live",
+      "wip": "In progress",
+      "planned": "Planned"
+    },
+    "noProjects": "No projects in this category yet."
+  }
+}

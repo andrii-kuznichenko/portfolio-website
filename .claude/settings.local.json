@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm info *)",
+      "Bash(npm install *)",
+      "Bash(npx shadcn@latest init --defaults --base-color zinc)",
+      "Bash(npx shadcn@latest init --defaults)",
+      "Bash(npx magicui-cli@latest init)"
+    ]
+  }
+}

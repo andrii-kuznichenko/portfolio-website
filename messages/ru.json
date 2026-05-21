@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Главная",
+    "projects": "Проекты"
+  },
+  "hero": {
+    "status": "— ОТКРЫТ К НОВЫМ ПРОЕКТАМ",
+    "heading": "Andrii Kuznichenko",
+    "subheading": "Пишу код. Всё просто.",
+    "body": "Fullstack веб-разработчик и 2D аниматор. Next.js, React, TypeScript — и немного анимации.",
+    "viewProjects": "Смотреть проекты",
+    "getInTouch": "Связаться",
+    "tags": {
+      "masters": "Магистр КН",
+      "english": "Английский C1",
+      "ukrainian": "Украинский",
+      "russian": "Русский",
+      "german": "Немецкий B1",
+      "location_first": "Берлин",
+      "location_second": "Грайфсвальд",
+      "location_third": "Одесса"
+    },
+    "photoCard": {
+      "label": "рекомендован",
+      "placeholder": "Фото скоро появится"
+    }
+  },
+  "about": {
+    "label": "ОБО МНЕ",
+    "text": "Я обращаю внимание на детали — чистые интерфейсы, продуманные взаимодействия, код, который приятно читать. Когда не строю веб-приложения — занимаюсь 2D анимацией. Ищу junior/mid позицию в Берлине, где важны и качество, и скорость.",
+    "tags": {
+      "cleanCode": "Чистый код",
+      "motionDesign": "Motion дизайн",
+      "uiux": "UI/UX фокус",
+      "fastShipping": "Быстрый шиппинг"
+    }
+  },
+  "experience": {
+    "label": "ОПЫТ",
+    "university": {
+      "title": "Технический сотрудник и веб-разработчик",
+      "company": "Университет Грайфсвальда",
+      "period": "2025 — настоящее время",
+      "description": "Разработка full-stack веб-приложений для клиентов. Продакшн приложения на Next.js, TypeScript и Postgres."
+    },
+    "fullstack": {
+      "title": "Fullstack веб-разработчик",
+      "company": "GSWE",
+      "period": "2025",
+      "description": "Маркетплейс, ресторанный SaaS, клиентское портфолио. Учусь через создание и публикацию реальных продуктов."
+    },
+    "frontend": {
+      "title": "Frontend NextJs разработчик",
+      "company": "Khabarov and Co",
+      "period": "2024 — 2025",
+      "description": "Маркетплейс, ресторанный SaaS, клиентское портфолио. Учусь через создание и публикацию реальных продуктов."
+    },
+    "animator": {
+      "title": "2D аниматор",
+      "company": "Voki Games",
+      "period": "2020 — 2022",
+      "description": "Маркетплейс, ресторанный SaaS, клиентское портфолио. Учусь через создание и публикацию реальных продуктов."
+    }
+  },
+  "education": {
+    "label": "ОБРАЗОВАНИЕ",
+    "masters": {
+      "title": "Магистр компьютерных наук",
+      "institution": "Одесский государственный экологический университет",
+      "period": "2021 — 2022"
+    },
+    "bachelor": {
+      "title": "Бакалавр компьютерных наук",
+      "institution": "Одесский национальный политехнический университет",
+      "period": "2017 — 2021"
+    },
+    "bootcamp": {
+      "title": "Буткемп веб-разработчика",
+      "institution": "WBS Coding School Berlin",
+      "period": "2023 — 2024"
+    }
+  },
+  "stack": {
+    "label": "СТЕК"
+  },
+  "projectsPreview": {
+    "label": "ПРОЕКТЫ",
+    "viewAll": "Все проекты →"
+  },
+  "footer": {
+    "heading": "Давайте что-нибудь построим.",
+    "subtitle": "Junior/mid позиции в Берлине — открыт к удалённой работе",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "projects": {
+    "labels": {
+      "liveDemo": "Live демо →",
+      "visitSite": "Перейти на сайт →",
+      "github": "GitHub",
+      "done": "ГОТОВО",
+      "nextUp": "ДАЛЕЕ",
+      "status": {
+        "live": "Живой",
+        "wip": "В процессе",
+        "planned": "Запланировано"
+      }
+    },
+    "marketplace": {
+      "title": "Маркетплейс",
+      "subtitle": "Full-stack платформа купли-продажи",
+      "description": "Full-stack маркетплейс с объявлениями, JWT аутентификацией, загрузкой изображений и чистым адаптивным UI. Собран по продакшн-стандартам и задеплоен на Vercel."
+    },
+    "jim-stanes": {
+      "title": "Jim Stanes",
+      "subtitle": "Портфолио художника",
+      "description": "Минималистичный сайт-портфолио для художника. Плавные переходы между страницами, кураторная сетка работ и качественное SEO. Опубликован на собственном домене."
+    },
+    "restaurant-saas": {
+      "title": "Ресторанный SaaS",
+      "subtitle": "Мультитенантное управление рестораном",
+      "description": "SaaS-платформа для рестораторов. Сейчас рефакторится с Pages Router на App Router. Включает UI управления столами и drag-and-drop конструктор меню."
+    },
+    "animation2d": {
+      "title": "2D Анимации",
+      "subtitle": "Эксперименты с motion",
+      "description": "Запланированная подборка 2D анимаций на Framer Motion, GSAP, Lottie и HTML Canvas. Исследование пересечения кода и искусства."
+    }
+  },
+  "projectsPage": {
+    "heading": "Вещи, которые я строил и ломал.",
+    "filter": {
+      "all": "Все",
+      "live": "Живой",
+      "wip": "В процессе",
+      "planned": "Запланировано"
+    },
+    "noProjects": "В этой категории пока нет проектов."
+  }
+}

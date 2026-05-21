@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Start",
+    "projects": "Projekte"
+  },
+  "hero": {
+    "status": "— OFFEN FÜR STELLEN — BERLIN",
+    "heading": "I build things",
+    "subheading": "people enjoy using.",
+    "body": "Fullstack-Entwickler & 2D-Animator. Next.js, React, TypeScript — und ein bisschen Motion-Magie.",
+    "viewProjects": "Projekte ansehen",
+    "getInTouch": "Kontakt aufnehmen",
+    "tags": {
+      "masters": "Master Informatik",
+      "english": "Englisch C1",
+      "ukrainian": "Ukrainisch",
+      "russian": "Russisch",
+      "german": "Deutsch B1",
+      "location_first": "Berlin",
+      "location_second": "Greifswald",
+      "location_third": "Odesa"
+    },
+    "photoCard": {
+      "label": "empfohlen",
+      "placeholder": "Foto folgt bald"
+    }
+  },
+  "about": {
+    "label": "ÜBER MICH",
+    "text": "Ich kümmere mich um Details — saubere Interfaces, durchdachte Interaktionen, Code der Freude macht zu lesen. Wenn ich keine Web-Apps baue, animiere ich in 2D. Ich suche eine Junior/Mid-Stelle in Berlin, wo Qualität und Schnelligkeit beide zählen.",
+    "tags": {
+      "cleanCode": "Sauberer Code",
+      "motionDesign": "Motion Design",
+      "uiux": "UI/UX-Fokus",
+      "fastShipping": "Schnelles Shipping"
+    }
+  },
+  "experience": {
+    "label": "ERFAHRUNG",
+    "university": {
+      "title": "Technischer Mitarbeiter und Web-Entwickler",
+      "company": "Universität Greifswald",
+      "period": "2025 — heute",
+      "description": "Entwicklung von Full-Stack-Webanwendungen für Kunden. Produktions-Apps mit Next.js, TypeScript und Postgres ausgeliefert."
+    },
+    "fullstack": {
+      "title": "Fullstack Web-Entwickler",
+      "company": "GSWE",
+      "period": "2025",
+      "description": "Marktplatz-App, Restaurant-SaaS, Kunden-Portfolio. Lernen durch Bauen und Ausliefern echter Produkte."
+    },
+    "frontend": {
+      "title": "Frontend NextJs Entwickler",
+      "company": "Khabarov and Co",
+      "period": "2024 — 2025",
+      "description": "Marktplatz-App, Restaurant-SaaS, Kunden-Portfolio. Lernen durch Bauen und Ausliefern echter Produkte."
+    },
+    "animator": {
+      "title": "2D Animator",
+      "company": "Voki Games",
+      "period": "2020 — 2022",
+      "description": "Marktplatz-App, Restaurant-SaaS, Kunden-Portfolio. Lernen durch Bauen und Ausliefern echter Produkte."
+    }
+  },
+  "education": {
+    "label": "AUSBILDUNG",
+    "masters": {
+      "title": "Master Informatik",
+      "institution": "Staatliche Ökologische Universität Odessa",
+      "period": "2021 — 2022"
+    },
+    "bachelor": {
+      "title": "Bachelor Informatik",
+      "institution": "Nationale Polytechnische Universität Odessa",
+      "period": "2017 — 2021"
+    },
+    "bootcamp": {
+      "title": "Web-Developer-Bootcamp",
+      "institution": "WBS Coding School Berlin",
+      "period": "2023 — 2024"
+    }
+  },
+  "stack": {
+    "label": "TECHNOLOGIEN"
+  },
+  "projectsPreview": {
+    "label": "PROJEKTE",
+    "viewAll": "Alle Projekte ansehen →"
+  },
+  "footer": {
+    "heading": "Lass uns etwas bauen.",
+    "subtitle": "Junior/Mid-Stellen in Berlin — offen für Remote",
+    "email": "E-Mail",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "projects": {
+    "labels": {
+      "liveDemo": "Live Demo →",
+      "visitSite": "Seite besuchen →",
+      "github": "GitHub",
+      "done": "ERLEDIGT",
+      "nextUp": "ALS NÄCHSTES",
+      "status": {
+        "live": "Live",
+        "wip": "In Bearbeitung",
+        "planned": "Geplant"
+      }
+    },
+    "marketplace": {
+      "title": "Marktplatz-App",
+      "subtitle": "Full-stack Kauf- und Verkaufsplattform",
+      "description": "Ein Full-Stack-Marktplatz mit Nutzerannoncen, JWT-Authentifizierung, Bild-Uploads und einem sauberen responsiven UI. Nach Produktionsstandards gebaut und auf Vercel deployed."
+    },
+    "jim-stanes": {
+      "title": "Jim Stanes",
+      "subtitle": "Künstlerportfolio",
+      "description": "Eine minimalistische Portfolio-Seite für einen bildenden Künstler. Mit sanften Seitenübergängen, einem kuratierten Kunstwerk-Raster und starker SEO. Auf einer eigenen Domain veröffentlicht."
+    },
+    "restaurant-saas": {
+      "title": "Restaurant-SaaS",
+      "subtitle": "Mehrinstanzliche Restaurantverwaltung",
+      "description": "Eine SaaS-Plattform für Restaurantbetreiber. Wird derzeit vom Pages Router auf den App Router umgestellt. Enthält Tischverwaltungs-UI und einen Drag-and-Drop-Menü-Builder."
+    },
+    "animation2d": {
+      "title": "2D-Animations-Showcase",
+      "subtitle": "Motion-Experimente",
+      "description": "Eine geplante Sammlung von 2D-Animationen mit Framer Motion, GSAP, Lottie und HTML Canvas. Erkundung der Schnittstelle von Code und Kunst."
+    }
+  },
+  "projectsPage": {
+    "heading": "Dinge, die ich gebaut & kaputt gemacht habe.",
+    "filter": {
+      "all": "Alle",
+      "live": "Live",
+      "wip": "In Arbeit",
+      "planned": "Geplant"
+    },
+    "noProjects": "Noch keine Projekte in dieser Kategorie."
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "nav": {
+    "home": "Головна",
+    "projects": "Проєкти"
+  },
+  "hero": {
+    "status": "— ВІДКРИТИЙ ДО РОБОТИ — БЕРЛІН",
+    "heading": "I build things",
+    "subheading": "people enjoy using.",
+    "body": "Fullstack розробник та 2D аніматор. Next.js, React, TypeScript — і трішки анімаційної магії.",
+    "viewProjects": "Переглянути проєкти",
+    "getInTouch": "Написати мені",
+    "tags": {
+      "masters": "Магістр КН",
+      "english": "Англійська C1",
+      "ukrainian": "Українська",
+      "russian": "Російська",
+      "german": "Німецька B1",
+      "location_first": "Berlin",
+      "location_second": "Greifswald",
+      "location_third": "Odesa"
+    },
+    "photoCard": {
+      "label": "рекомендований",
+      "placeholder": "Фото скоро буде"
+    }
+  },
+  "about": {
+    "label": "ПРО МЕНЕ",
+    "text": "Я звертаю увагу на деталі — чисті інтерфейси, продумані взаємодії, код, який приємно читати. Коли я не будую веб-застосунки, я займаюся 2D анімацією. Шукаю junior/mid позицію в Берліні, де важливі і якість, і швидкість.",
+    "tags": {
+      "cleanCode": "Чистий код",
+      "motionDesign": "Motion дизайн",
+      "uiux": "UI/UX фокус",
+      "fastShipping": "Швидке шипінг"
+    }
+  },
+  "experience": {
+    "label": "ДОСВІД",
+    "university": {
+      "title": "Технічний співробітник та веб-розробник",
+      "company": "Університет Грайфсвальда",
+      "period": "2025 — дотепер",
+      "description": "Розробка full-stack веб-застосунків для клієнтів. Продакшн застосунки на Next.js, TypeScript та Postgres."
+    },
+    "fullstack": {
+      "title": "Fullstack веб-розробник",
+      "company": "GSWE",
+      "period": "2025",
+      "description": "Маркетплейс, ресторанний SaaS, клієнтське портфоліо. Навчаюся через створення та публікацію реальних продуктів."
+    },
+    "frontend": {
+      "title": "Frontend NextJs розробник",
+      "company": "Khabarov and Co",
+      "period": "2024 — 2025",
+      "description": "Маркетплейс, ресторанний SaaS, клієнтське портфоліо. Навчаюся через створення та публікацію реальних продуктів."
+    },
+    "animator": {
+      "title": "2D аніматор",
+      "company": "Voki Games",
+      "period": "2020 — 2022",
+      "description": "Маркетплейс, ресторанний SaaS, клієнтське портфоліо. Навчаюся через створення та публікацію реальних продуктів."
+    }
+  },
+  "education": {
+    "label": "ОСВІТА",
+    "masters": {
+      "title": "Магістр з комп'ютерних наук",
+      "institution": "Одеський державний екологічний університет",
+      "period": "2021 — 2022"
+    },
+    "bachelor": {
+      "title": "Бакалавр з комп'ютерних наук",
+      "institution": "Одеський національний політехнічний університет",
+      "period": "2017 — 2021"
+    },
+    "bootcamp": {
+      "title": "Буткемп веб-розробника",
+      "institution": "WBS Coding School Berlin",
+      "period": "2023 — 2024"
+    }
+  },
+  "stack": {
+    "label": "СТЕК"
+  },
+  "projectsPreview": {
+    "label": "ПРОЄКТИ",
+    "viewAll": "Всі проєкти →"
+  },
+  "footer": {
+    "heading": "Давайте щось побудуємо.",
+    "subtitle": "Junior/mid позиції в Берліні — відкритий до remote",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "projects": {
+    "labels": {
+      "liveDemo": "Live демо →",
+      "visitSite": "Відвідати сайт →",
+      "github": "GitHub",
+      "done": "ЗРОБЛЕНО",
+      "nextUp": "ДАЛІ",
+      "status": {
+        "live": "Живий",
+        "wip": "В процесі",
+        "planned": "Заплановано"
+      }
+    },
+    "marketplace": {
+      "title": "Маркетплейс",
+      "subtitle": "Full-stack платформа купівлі-продажу",
+      "description": "Full-stack маркетплейс з оголошеннями, JWT автентифікацією, завантаженням зображень і чистим адаптивним UI. Зібраний за продакшн-стандартами і задеплоєний на Vercel."
+    },
+    "jim-stanes": {
+      "title": "Jim Stanes",
+      "subtitle": "Портфоліо художника",
+      "description": "Мінімалістичний сайт-портфоліо для художника. Плавні переходи між сторінками, курований грід робіт і якісне SEO. Опублікований на власному домені."
+    },
+    "restaurant-saas": {
+      "title": "Ресторанний SaaS",
+      "subtitle": "Мультитенантне управління рестораном",
+      "description": "SaaS-платформа для рестораторів. Зараз рефакторингується з Pages Router на App Router. Включає UI управління столами та drag-and-drop конструктор меню."
+    },
+    "animation2d": {
+      "title": "2D Анімації",
+      "subtitle": "Експерименти з motion",
+      "description": "Запланована добірка 2D анімацій на Framer Motion, GSAP, Lottie та HTML Canvas. Дослідження перетину коду і мистецтва."
+    }
+  },
+  "projectsPage": {
+    "heading": "Речі, які я будував і ламав.",
+    "filter": {
+      "all": "Всі",
+      "live": "Живий",
+      "wip": "В процесі",
+      "planned": "Заплановано"
+    },
+    "noProjects": "Ще немає проєктів у цій категорії."
+  }
+}
